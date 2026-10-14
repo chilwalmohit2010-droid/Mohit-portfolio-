@@ -1,0 +1,6 @@
+{
+  "name": "MOHIT PORTFOLIO",
+  "description": "Personal portfolio website of Mohit showcasing video editing, web development, app development, and creative work with a secure admin management portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
